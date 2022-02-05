@@ -1,0 +1,20 @@
+{
+  "name": " Elizabeth",
+  "short_name": "Eliza",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#45BB9D",
+  "description": "A news app.",
+  "icons": [
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/logo.png",
+      "sizes": "492x507",
+      "type": "image/png"
+    }
+  ]
+}
