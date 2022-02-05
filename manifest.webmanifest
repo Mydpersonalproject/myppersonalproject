@@ -1,7 +1,7 @@
 {
   "name": " Elizabeth",
   "short_name": "Eliza",
-  "start_url": ".",
+  "start_url": "../index.html",
   "display": "standalone",
   "background_color": "#45BB9D",
   "description": "A news app.",
