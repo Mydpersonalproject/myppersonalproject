@@ -86,7 +86,7 @@ width: 500px;
 height: 600px;
 margin: 15px;
 transform: translate(0px,-27px);
-color: #FFFFFF; 
+color: black; 
 }
   
   
@@ -100,7 +100,7 @@ color: #FFFFFF;
     height: 600px;
     transform: translate(600px,-640px);
     margin: 15px;
-    color: #FFFFFF; 
+    color: black; 
     
   }
   .div6 {
@@ -116,7 +116,7 @@ color: #FFFFFF;
     display: block;
     transform: translate(300px,-500px);
     margin: 20px;
-    color: #FFFFFF; 
+    color: black; 
   }
   .Img1{
     width: 500px;

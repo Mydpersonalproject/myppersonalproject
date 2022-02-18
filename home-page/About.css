@@ -3,13 +3,15 @@
   padding: 0;
 }
 body{
-  background: #000000;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #000046;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 color:white;
 text-align: center;
 font-size: 18px;
  font-family: 'Open Sans', sans-serif;
+ margin-top: 20px;
   
 }
 .Author{
@@ -23,11 +25,13 @@ font-size: 18px;
   display: block;
 }
 .div2{
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 330px;
   background-color: green;
 border-radius: 50px;
-background: linear-gradient(to right, #0f9b0f, #000000);;
+background: #000046;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 margin: 10px;
 }
@@ -36,12 +40,14 @@ margin: 10px;
   height: 330px;
 background-color: green;
 border-radius: 50px;
-background: linear-gradient(to right, #0f9b0f, #000000);
+background: #000046;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 margin-left: auto;
 margin-right: auto;
 display: block;
-transform: translate(200px,-310px
+transform: translate(200px,-340px
 );
 }
 svg{
@@ -106,11 +112,30 @@ transform: translate(0px,-300px);
   
 }
 .Lastdiv {
-  width: 600px;
-  height: 300px;
+  width: 800px;
+  height: 50px;
   margin-left: auto;
   margin-right: auto;
   display: block;
   background-color: linear-gradient(to right, #0f9b0f, #000000);
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  transform: translate(0px,-150px);
+}
+hr{
+  width: 100%;
+  height: 10px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+
+}
+.div1{
+  background-color: linear-gradient(to right, #0f9b0f, #000000);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 15px;
+  border-radius: 20px;
 }
